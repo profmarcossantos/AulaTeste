@@ -1,6 +1,6 @@
 print("Hello World!")
 
-x = 10
-y = 8
+x = 1000
+y = 2000
 resultado = x+y
 print(resultado)
